@@ -44,4 +44,4 @@
 * [qrcode-monkey.com/](https://www.qrcode-monkey.com/)
 
 **ANIMATED MOCKUPS**
-* [snimockup.com](https://animockup.com/)
+* [animockup.com](https://animockup.com/)
