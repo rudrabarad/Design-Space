@@ -8,6 +8,7 @@
 - [iconscout.com/unicons](https://iconscout.com/unicons)
 - [ui8.net/piqodesign](https://ui8.net/piqodesign)
 - [storytale.io](https://storytale.io/)
+- [simpleicons.org](https://simpleicons.org/)
 
 **FREE ILLUSTRATIONS :**
 * [drawkit.io](https://drawkit.io)
@@ -17,6 +18,8 @@
 * [freepik.com](https://freepik.com)
 * [usemash.com](https://usemash.com)
 * [manypixels.co](https://manypixels.co)
+* [lukaszadam.com](https://lukaszadam.com/illustrations)
+* [blush.design](https://blush.design/)
 
 **COLOUR INSPIRATION RESOURCES :**
 * [coolors.co/](https://coolors.co/)
@@ -25,6 +28,8 @@
 * [colorhunt.co](https://colorhunt.co)
 * [khroma.co/train](https://khroma.co/train)
 * [curls.com](https://curls.com)
+* [htmlcolorcodes.com](https://htmlcolorcodes.com/)
+* [flatuicolors.com](https://flatuicolors.com/)
 
 **FOR REMOVING BACKGROUND :**
 * [remove.bg](https://www.remove.bg/)
