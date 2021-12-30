@@ -34,8 +34,9 @@
 **FOR REMOVING BACKGROUND :**
 * [remove.bg](https://www.remove.bg/)
 
-**WAVES**
+**RANDOM SHAPES GENERATOR**
 * [getwaves.io/](https://getwaves.io/)
+* [app.haikei.app](https://app.haikei.app/)
 
 **RANDOM SHAPES**
 * [blobmaker.app/](https://www.blobmaker.app/)
@@ -52,4 +53,4 @@
 * [animockup.com](https://animockup.com/)
 
 **FREEBIE**
-* [https://www.lapa.ninja/freebies/](https://www.lapa.ninja/freebies/)
+* [lapa.ninja/freebies/](https://www.lapa.ninja/freebies/)
