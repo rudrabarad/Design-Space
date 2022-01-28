@@ -4,9 +4,10 @@
 - [codetote.com](https://www.codetote.com/)
 
 **ICONS**
+- [feathericons.com](https://feathericons.com/)
+- [https://heroicons.com/](https://heroicons.com/)
 - [nucleoapp.com](https://nucleoapp.com/)
 - [icons8.com/animated-icons](https://icons8.com/animated-icons)
-- [feathericons.com](https://feathericons.com/)
 - [streamlineicons.com](https://streamlineicons.com/)
 - [iconscout.com/unicons](https://iconscout.com/unicons)
 - [ui8.net/piqodesign](https://ui8.net/piqodesign)
